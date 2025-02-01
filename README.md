@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Ayush srivastava
 Hi there! I'm a second-year BCA student with a passion for learning about computer science and developing software solutions. I love working on projects that challenge my skills and help me grow as a developer.<br><br>🔧 Skills & Technologies<br>Languages: java, python<br>Web Development: HTML, CSS, React<br>Other Tools: Git, GitHub, Visual Studio Code<br>📚 Learning Goals<br>I am currently focusing on web development and data structures.<br><br>
 
 
